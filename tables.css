@@ -1,0 +1,48 @@
+/* Div formating Start here*/
+/* When working with <divid="#" weh use the # for formating */
+
+#top {
+    font-size: 36px;
+}
+
+#middle {
+    font-size: 30px;
+}
+
+#bottom {
+    font-size: 24px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+
+
+
+h1 {
+    color: bisque;
+}
+
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    widows: 50%;
+}
+
+/* this formats data for both the table headers and the contents or data */
+th, td {
+    border: 1px solid black;
+    padding: 5px; /* padding to both the heading and the data */
+}
+
+/* this formats data just for the headers */
+th {
+    background-color: lightgreen;
+    padding: 
+}
+
+
+
+
